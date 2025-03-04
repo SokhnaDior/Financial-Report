@@ -14,3 +14,4 @@ Data storytelling techniques for financial data
 9:51 Multi Row Card
 11:02 Slicers
 14:59 Design Dashboard
+![fin-rep](https://github.com/user-attachments/assets/d4fdeb0b-a396-4200-804e-91b356ff9708)
